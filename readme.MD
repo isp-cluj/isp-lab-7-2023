@@ -19,12 +19,7 @@ The Admin should be able to add and to remove tenants, and to view the acess log
 **NOTE - The Java project comes with predefined unit tests. You should make sure all tests pass. You are not allowed to change unit tests (except for the initialisation of Controller object in the _instantiateDoorController()_ method**).
 
 
-## Exercise 2 - Use case diagram
-
-Create the _UML use case_ diagram for the Safe Home Access application. 
-
-
-## Exercise 3 - Sequence diagram(s)
+## Exercise 2 - Sequence diagram(s)
 
 Create the _UML sequence_ diagram for the Safe Home Access application.
 The entities that should appear in the diagram(s) are:
